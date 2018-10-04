@@ -1,0 +1,252 @@
+[27-Feb-2018 01:23:46 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection timed out in /home/ubuntu/workspace/db/dbconnect.php on line 3
+[27-Feb-2018 01:23:46 UTC] PHP Stack trace:
+[27-Feb-2018 01:23:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:23:46 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:3
+[27-Feb-2018 01:45:41 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:45:41 UTC] PHP Stack trace:
+[27-Feb-2018 01:45:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:45:41 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 01:46:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'zach'@'localhost' to database 'band_manager' in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:46:49 UTC] PHP Stack trace:
+[27-Feb-2018 01:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:46:49 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 01:49:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'zach'@'localhost' to database 'band_manager' in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:49:12 UTC] PHP Stack trace:
+[27-Feb-2018 01:49:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:49:12 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 01:49:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:49:42 UTC] PHP Stack trace:
+[27-Feb-2018 01:49:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:49:42 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 01:50:15 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'zach'@'localhost' to database 'band_manager' in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:50:15 UTC] PHP Stack trace:
+[27-Feb-2018 01:50:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:50:15 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 01:52:10 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:52:10 UTC] PHP Stack trace:
+[27-Feb-2018 01:52:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:52:10 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 01:52:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 01:52:58 UTC] PHP Stack trace:
+[27-Feb-2018 01:52:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 01:52:58 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 02:01:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach_b@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 02:01:42 UTC] PHP Stack trace:
+[27-Feb-2018 02:01:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 02:01:42 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 02:03:33 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach_b@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 02:03:33 UTC] PHP Stack trace:
+[27-Feb-2018 02:03:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 02:03:33 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 02:05:19 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach_b@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 02:05:19 UTC] PHP Stack trace:
+[27-Feb-2018 02:05:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 02:05:19 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 02:05:55 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach_b@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 02:05:55 UTC] PHP Stack trace:
+[27-Feb-2018 02:05:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 02:05:55 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 02:05:58 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'zach_b@localhost'@'localhost' (using password: YES) in /home/ubuntu/workspace/db/dbconnect.php on line 11
+[27-Feb-2018 02:05:58 UTC] PHP Stack trace:
+[27-Feb-2018 02:05:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/db/dbconnect.php:0
+[27-Feb-2018 02:05:58 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/db/dbconnect.php:11
+[27-Feb-2018 02:33:32 UTC] PHP Warning:  require(dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/songs/songlist.php on line 3
+[27-Feb-2018 02:33:32 UTC] PHP Stack trace:
+[27-Feb-2018 02:33:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:33:32 UTC] PHP Fatal error:  require(): Failed opening required 'dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/songs/songlist.php on line 3
+[27-Feb-2018 02:33:32 UTC] PHP Stack trace:
+[27-Feb-2018 02:33:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:34:15 UTC] PHP Warning:  require(db/dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/songs/songlist.php on line 3
+[27-Feb-2018 02:34:15 UTC] PHP Stack trace:
+[27-Feb-2018 02:34:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:34:15 UTC] PHP Fatal error:  require(): Failed opening required 'db/dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/songs/songlist.php on line 3
+[27-Feb-2018 02:34:15 UTC] PHP Stack trace:
+[27-Feb-2018 02:34:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:35:34 UTC] PHP Warning:  require(band_manager/db/dbconnect.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/songs/songlist.php on line 3
+[27-Feb-2018 02:35:34 UTC] PHP Stack trace:
+[27-Feb-2018 02:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:35:34 UTC] PHP Fatal error:  require(): Failed opening required 'band_manager/db/dbconnect.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/songs/songlist.php on line 3
+[27-Feb-2018 02:35:34 UTC] PHP Stack trace:
+[27-Feb-2018 02:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:36:14 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/songs/songlist.php on line 5
+[27-Feb-2018 02:36:14 UTC] PHP Stack trace:
+[27-Feb-2018 02:36:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:37:54 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/songs/songlist.php on line 5
+[27-Feb-2018 02:37:54 UTC] PHP Stack trace:
+[27-Feb-2018 02:37:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 02:37:57 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/songs/songlist.php on line 5
+[27-Feb-2018 02:37:57 UTC] PHP Stack trace:
+[27-Feb-2018 02:37:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[27-Feb-2018 03:52:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/songs/svraddsong.php on line 39
+[27-Feb-2018 03:54:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/songs/svraddsong.php on line 40
+[27-Feb-2018 04:05:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 27
+[27-Feb-2018 04:05:23 UTC] PHP Stack trace:
+[27-Feb-2018 04:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[27-Feb-2018 04:06:24 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 27
+[27-Feb-2018 04:06:24 UTC] PHP Stack trace:
+[27-Feb-2018 04:06:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[27-Feb-2018 04:35:36 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/songs/songlist.php on line 27
+[27-Feb-2018 04:36:05 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/songs/songlist.php on line 38
+[27-Feb-2018 04:40:20 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/songs/songlist.php on line 38
+[27-Feb-2018 04:42:03 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:42:07 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:42:22 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:43:34 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:43:47 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:44:11 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:44:15 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/ubuntu/workspace/songs/songlist.php on line 36
+[27-Feb-2018 04:50:12 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/songs/songlist.php on line 30
+[27-Feb-2018 04:50:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ubuntu/workspace/songs/songlist.php on line 30
+[07-Mar-2018 21:37:32 UTC] PHP Fatal error:  Call to undefined function goback() in /home/ubuntu/workspace/songs/svraddsong.php on line 62
+[07-Mar-2018 21:37:32 UTC] PHP Stack trace:
+[07-Mar-2018 21:37:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[07-Mar-2018 21:39:19 UTC] PHP Fatal error:  Call to undefined function goBack() in /home/ubuntu/workspace/songs/svraddsong.php on line 62
+[07-Mar-2018 21:39:19 UTC] PHP Stack trace:
+[07-Mar-2018 21:39:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Mar-2018 19:50:16 UTC] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/ubuntu/workspace/songs/cltaddsong.php on line 17
+[09-Mar-2018 19:50:31 UTC] PHP Parse error:  syntax error, unexpected '" ;' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/songs/cltaddsong.php on line 33
+[09-Mar-2018 19:50:49 UTC] PHP Parse error:  syntax error, unexpected '" ;' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/songs/cltaddsong.php on line 33
+[03-Apr-2018 19:07:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svrdelsong.php on line 29
+[03-Apr-2018 19:07:12 UTC] PHP Stack trace:
+[03-Apr-2018 19:07:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svrdelsong.php:0
+[03-Apr-2018 20:45:11 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/ubuntu/workspace/songs/svreditsong.php on line 32
+[03-Apr-2018 20:45:11 UTC] PHP Stack trace:
+[03-Apr-2018 20:45:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svreditsong.php:0
+[05-Apr-2018 14:33:47 UTC] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/ubuntu/workspace/songs/songlist.php on line 38
+[05-Apr-2018 14:43:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/songs/clteditsong.php on line 89
+[05-Apr-2018 18:45:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/clients/clteditclient.php on line 20
+[05-Apr-2018 18:46:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/clients/clteditclient.php on line 20
+[05-Apr-2018 18:50:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/clients/clteditclient.php on line 19
+[05-Apr-2018 19:19:36 UTC] PHP Fatal error:  Call to undefined function toEvents() in /home/ubuntu/workspace/clients/svraddclient.php on line 18
+[05-Apr-2018 19:19:36 UTC] PHP Stack trace:
+[05-Apr-2018 19:19:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/clients/svraddclient.php:0
+[05-Apr-2018 19:23:12 UTC] PHP Fatal error:  Call to undefined function toEvents() in /home/ubuntu/workspace/clients/svraddclient.php on line 19
+[05-Apr-2018 19:23:12 UTC] PHP Stack trace:
+[05-Apr-2018 19:23:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/clients/svraddclient.php:0
+[05-Apr-2018 19:30:18 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/ubuntu/workspace/clients/svraddclient.php on line 19
+[05-Apr-2018 23:37:04 UTC] PHP Warning:  Header may not contain more than a single header, new line detected in /home/ubuntu/workspace/events/svrdelevent.php on line 26
+[05-Apr-2018 23:37:04 UTC] PHP Stack trace:
+[05-Apr-2018 23:37:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/events/svrdelevent.php:0
+[05-Apr-2018 23:37:04 UTC] PHP   2. header() /home/ubuntu/workspace/events/svrdelevent.php:26
+[06-Apr-2018 00:11:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/events/notelist.php on line 53
+[06-Apr-2018 00:23:40 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/events/notelist.php on line 55
+[06-Apr-2018 00:42:02 UTC] PHP Parse error:  syntax error, unexpected '$subject' (T_VARIABLE) in /home/ubuntu/workspace/events/editnote.php on line 30
+[06-Apr-2018 00:59:45 UTC] PHP Parse error:  syntax error, unexpected '4' (T_LNUMBER), expecting ',' or ';' in /home/ubuntu/workspace/events/notelist.php on line 54
+[06-Apr-2018 01:01:00 UTC] PHP Parse error:  syntax error, unexpected '$note_id' (T_VARIABLE), expecting ',' or ';' in /home/ubuntu/workspace/events/notelist.php on line 54
+[08-Apr-2018 16:12:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/events/cltviewschedule.php on line 11
+[08-Apr-2018 16:12:27 UTC] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/ubuntu/workspace/events/cltviewschedule.php on line 19
+[08-Apr-2018 16:12:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/events/cltviewschedule.php on line 34
+[08-Apr-2018 16:22:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ubuntu/workspace/events/cltviewschedule.php on line 50
+[08-Apr-2018 16:29:11 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:29:22 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:29:44 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:29:48 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:30:10 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:30:26 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:31:02 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:31:37 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:31:54 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:32:06 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:32:10 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:32:32 UTC] PHP Parse error:  syntax error, unexpected '"<a href='events/clientvieweve' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[08-Apr-2018 16:33:57 UTC] PHP Parse error:  syntax error, unexpected '"<a href='clientviewevents.php' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 67
+[09-Apr-2018 16:00:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/events/cltviewschedule.php on line 13
+[09-Apr-2018 16:22:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/events/cltaddschedule.php on line 13
+[09-Apr-2018 16:22:52 UTC] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/ubuntu/workspace/events/cltaddschedule.php on line 18
+[09-Apr-2018 16:41:41 UTC] PHP Parse error:  syntax error, unexpected '$cock' (T_VARIABLE) in /home/ubuntu/workspace/events/svraddschedule.php on line 10
+[09-Apr-2018 16:42:03 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/events/svraddschedule.php on line 17
+[09-Apr-2018 16:43:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/events/svraddschedule.php on line 17
+[09-Apr-2018 16:45:26 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/events/svraddschedule.php on line 17
+[09-Apr-2018 16:45:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/events/svraddschedule.php on line 17
+[09-Apr-2018 16:47:02 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/events/svraddschedule.php on line 17
+[09-Apr-2018 16:47:17 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/events/svraddschedule.php on line 17
+[09-Apr-2018 20:10:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:10:05 UTC] PHP Stack trace:
+[09-Apr-2018 20:10:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:10:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:10:33 UTC] PHP Stack trace:
+[09-Apr-2018 20:10:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:17:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:17:00 UTC] PHP Stack trace:
+[09-Apr-2018 20:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:42:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:42:52 UTC] PHP Stack trace:
+[09-Apr-2018 20:42:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:44:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:44:54 UTC] PHP Stack trace:
+[09-Apr-2018 20:44:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:45:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:45:04 UTC] PHP Stack trace:
+[09-Apr-2018 20:45:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:45:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/songs/svraddsong.php on line 19
+[09-Apr-2018 20:45:21 UTC] PHP Stack trace:
+[09-Apr-2018 20:45:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/svraddsong.php:0
+[09-Apr-2018 20:47:21 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/songs/svraddsong.php on line 12
+[09-Apr-2018 23:29:38 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 17
+[09-Apr-2018 23:29:57 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 28
+[09-Apr-2018 23:30:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 48
+[09-Apr-2018 23:31:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 47
+[09-Apr-2018 23:31:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 47
+[09-Apr-2018 23:34:21 UTC] PHP Parse error:  syntax error, unexpected '$genre' (T_VARIABLE) in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 17
+[09-Apr-2018 23:56:42 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 17
+[09-Apr-2018 23:57:47 UTC] PHP Parse error:  syntax error, unexpected '$genre' (T_VARIABLE) in /home/ubuntu/workspace/songs/cltviewgenresongs.php on line 17
+[10-Apr-2018 14:21:20 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ubuntu/workspace/songs/cltviewartistsongs.php on line 45
+[10-Apr-2018 15:16:34 UTC] PHP Parse error:  syntax error, unexpected 'delallsongs' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/songs/songlist.php on line 64
+[10-Apr-2018 15:18:21 UTC] PHP Parse error:  syntax error, unexpected 'delallsongs' (T_STRING) in /home/ubuntu/workspace/songs/songlist.php on line 64
+[10-Apr-2018 16:23:44 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:25:53 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:25:53 UTC] PHP Stack trace:
+[10-Apr-2018 16:25:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:26:33 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:26:33 UTC] PHP Stack trace:
+[10-Apr-2018 16:26:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:26:54 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:26:54 UTC] PHP Stack trace:
+[10-Apr-2018 16:26:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:27:36 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:27:36 UTC] PHP Stack trace:
+[10-Apr-2018 16:27:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:29:09 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 7
+[10-Apr-2018 16:29:09 UTC] PHP Stack trace:
+[10-Apr-2018 16:29:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:36:14 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 7
+[10-Apr-2018 16:36:14 UTC] PHP Stack trace:
+[10-Apr-2018 16:36:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:36:27 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 7
+[10-Apr-2018 16:36:27 UTC] PHP Stack trace:
+[10-Apr-2018 16:36:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:36:44 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 7
+[10-Apr-2018 16:36:44 UTC] PHP Stack trace:
+[10-Apr-2018 16:36:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:36:57 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 7
+[10-Apr-2018 16:36:57 UTC] PHP Stack trace:
+[10-Apr-2018 16:36:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:44:19 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 7
+[10-Apr-2018 16:44:19 UTC] PHP Stack trace:
+[10-Apr-2018 16:44:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:44:28 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:44:28 UTC] PHP Stack trace:
+[10-Apr-2018 16:44:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:44:39 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:44:39 UTC] PHP Stack trace:
+[10-Apr-2018 16:44:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:45:55 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:45:55 UTC] PHP Stack trace:
+[10-Apr-2018 16:45:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:48:48 UTC] PHP Fatal error:  Call to undefined function db_query() in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:48:48 UTC] PHP Stack trace:
+[10-Apr-2018 16:48:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:51:53 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:51:53 UTC] PHP Stack trace:
+[10-Apr-2018 16:51:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:52:23 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:52:23 UTC] PHP Stack trace:
+[10-Apr-2018 16:52:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:52:23 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/songs/songlist.php:5
+[10-Apr-2018 16:52:23 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/ubuntu/workspace/songs/songlist.php on line 5
+[10-Apr-2018 16:52:23 UTC] PHP Stack trace:
+[10-Apr-2018 16:52:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
+[10-Apr-2018 16:52:23 UTC] PHP   2. mysql_query() /home/ubuntu/workspace/songs/songlist.php:5
+[10-Apr-2018 16:57:53 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/songs/songlist.php on line 13
+[10-Apr-2018 16:57:53 UTC] PHP Stack trace:
+[10-Apr-2018 16:57:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/songs/songlist.php:0
